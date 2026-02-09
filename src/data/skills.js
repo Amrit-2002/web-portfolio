@@ -7,6 +7,7 @@ const skills = [
       { name: "PHP", level: "Advanced" },
       { name: "C++", level: "Advanced" },
       { name: "SQL", level: "Intermediate" },
+      { name: "Dart", level: "Intermediate" },
     ],
   },
   {
@@ -23,6 +24,7 @@ const skills = [
     category: "Frontend",
     items: [
       { name: "React", level: "Intermediate" },
+      { name: "Flutter", level: "Intermediate" },
       { name: "HTML", level: "Advanced" },
       { name: "CSS", level: "Advanced" },
       { name: "Vite", level: "Basic" },

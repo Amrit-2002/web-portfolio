@@ -48,13 +48,13 @@ const projects = [
     id: "notes-management",
     title: "Notes Management",
     description: "Comprehensive notes management application.",
-    tech: ["React", "Node.js", "MongoDB"],
+    tech: ["PHP", "CodeIgniter", "MySQL", "HTML/CSS", "JavaScript", "Bootstrap"],
     github: "https://github.com/Amrit-2002/notes-management",
     live: "#",
     features: [
       "Create, read, update, and delete (CRUD) operations for personal notes.",
-      "User-friendly interface built with React for a responsive experience.",
-      "Secure backend with Node.js and MongoDB for data persistence.",
+      "User-friendly interface built with Bootstrap for a responsive experience.",
+      "Secure backend with CodeIgniter and MySQL for data persistence.",
       "Search and filter functionality to quickly find specific notes.",
       "Scalable architecture suitable for adding collaborative features in the future."
     ]
@@ -63,9 +63,9 @@ const projects = [
     id: "oneboard",
     title: "OneBoard",
     description: "Digital whiteboard application for real-time collaboration.",
-    tech: ["React", "Canvas API"],
+    tech: ["React", "Canvas API", "HTML/CSS", "JavaScript"],
     github: "https://github.com/Amrit-2002/oneBoard",
-    live: "#",
+    live: "https://oneboard.onrender.com/",
     features: [
       "Real-time drawing and collaboration capabilities using the Canvas API.",
       "Interactive toolbar with various tools like pen, eraser, and shapes.",
@@ -78,9 +78,9 @@ const projects = [
     id: "e-shopping",
     title: "E-Shopping Website",
     description: "Fully functional e-commerce frontend interface.",
-    tech: ["HTML", "CSS", "JavaScript"],
+    tech: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     github: "https://github.com/Amrit-2002/E-Shopping-website",
-    live: "#",
+    live: "https://amrit-2002.github.io/E-Shopping-website/",
     features: [
       "Modern and responsive product listing and detail pages.",
       "Interactive shopping cart functionality with dynamic total calculation.",
@@ -93,7 +93,7 @@ const projects = [
     id: "loan-prediction",
     title: "Loan Prediction System",
     description: "Machine learning model to predict loan approval status based on applicant data.",
-    tech: ["Python", "Machine Learning"],
+    tech: ["Python", "Machine Learning", "Data cleaning", "Data visualization", "Scikit-learn"],
     github: "https://github.com/Amrit-2002/loan_prediction_system",
     live: "#",
     features: [
@@ -108,7 +108,7 @@ const projects = [
     id: "laptop-price",
     title: "Laptop Price Prediction",
     description: "Price prediction model for laptops based on technical specifications.",
-    tech: ["Python", "Scikit-learn"],
+    tech: ["Python", "Machine Learning", "Scikit-learn", "Data cleaning", "Data visualization", "Pandas", "NumPy"],
     github: "https://github.com/Amrit-2002/Laptop_price_prediction",
     live: "#",
     features: [
@@ -125,7 +125,7 @@ const projects = [
     description: "Responsive clone of the Flipkart e-commerce website.",
     tech: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/Amrit-2002/Flipkart",
-    live: "#",
+    live: "https://amrit-2002.github.io/Flipkart/",
     features: [
       "Pixel-perfect replication of the Flipkart homepage and product pages.",
       "Responsive design adapting seamlessly to mobile, tablet, and desktop views.",
@@ -140,7 +140,7 @@ const projects = [
     description: "Classic interactive Tic-Tac-Toe game.",
     tech: ["React", "JavaScript"],
     github: "https://github.com/Amrit-2002/Tic-Tac-Toe-game",
-    live: "#",
+    live: "https://amrit-2002.github.io/Tic-Tac-Toe-game/",
     features: [
       "Interactive game board with real-time status updates (winner, draw, next turn).",
       "History tracking allowing players to jump back to previous moves.",
@@ -155,7 +155,7 @@ const projects = [
     description: "Real-time weather forecasting application.",
     tech: ["HTML", "CSS", "JavaScript", "OpenWeatherMap"],
     github: "https://github.com/Amrit-2002/Weather-App",
-    live: "#",
+    live: "https://amrit-2002.github.io/Weather-App/",
     features: [
       "Real-time weather data fetching using the OpenWeatherMap API.",
       "City search functionality to check weather conditions globally.",
@@ -184,8 +184,8 @@ const projects = [
     title: "Portfolio",
     description: "Personal portfolio website showcasing skills and projects.",
     tech: ["React", "Vite", "CSS"],
-    github: "https://github.com/Amrit-2002/Portfolio",
-    live: "#",
+    github: "https://github.com/Amrit-2002/web-portfolio",
+    live: "https://web-portfolio-red-eta.vercel.app/",
     features: [
       "Modern and responsive design showcasing professional profile and work.",
       "Dynamic routing for smooth navigation between sections (About, Projects, etc.).",
