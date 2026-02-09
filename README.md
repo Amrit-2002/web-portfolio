@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my projects, skills, and experience as a Software Engineer.
 
 ## 🚀 Live Demo
-**[View my Portfolio](https://Amrit-2002.github.io/personal-portfolio/)**
+<!-- **[View my Portfolio](https://Amrit-2002.github.io/web-portfolio/)** -->
 
 ## ✨ Features
 - **Responsive Design:** Looks great on all devices (Mobile, Tablet, Desktop).
@@ -22,8 +22,8 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Amrit-2002/personal-portfolio.git
-    cd personal-portfolio
+    git clone https://github.com/Amrit-2002/web-portfolio.git
+    cd web-portfolio
     ```
 
 2.  **Install dependencies**
